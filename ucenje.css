@@ -1,0 +1,140 @@
+#a {
+
+border: 1px solid black;	
+width: 180px;	
+height: 240px;
+margin-left: 550px;	
+margin-top: 200px;
+
+}
+
+#a > .a,.b,.c,.d,.e,.g,.f,.i,.j,.h,.k,.l,.m{
+	
+border: 1px solid black;	
+width: 58px;	
+height: 58px;
+float: left;	
+}
+
+button {
+	
+margin-left: 613px;	
+margin-top: 30px;
+font-family: Verdana;
+text-transform: uppercase;
+	
+}
+
+#b {
+
+border: 1px solid black;	
+width: 180px;	
+height: 300px;
+margin-left: 550px;	
+margin-top: 200px;
+font-family: Arial;
+
+}
+
+#b > .a,.b,.c,.d,.e,.g,.f,.i,.j,.h,.k,.l,.m,.n,.o {
+	
+border: 1px solid black;	
+width: 58px;	
+height: 58px;
+float: left;
+	
+}
+
+#button {
+	
+	
+	
+	
+}
+
+a {
+
+color: blue;	
+position: absolute;
+margin-left: 10px;
+margin-top: 80px;
+text-transform: uppercase;
+font-family: Helvetica;
+	
+}
+
+#c {
+
+border: 1px solid black;	
+width: 180px;	
+height: 180px;
+margin-left: 500px;	
+margin-top: 180px;
+	
+}
+
+#c > .a,.b,.c,.d,.e,.f,.g,.h,.i {
+	
+border: 1px solid black;	
+width: 58px;	
+height: 58px;
+float: left;	
+	
+}
+
+#button1 {
+	
+margin-left: 562px;
+	
+}
+
+#d {
+
+border: 1px solid black;	
+width: 180px;	
+height: 360px;
+margin-left: 500px;	
+margin-top: 180px;
+	
+}
+
+#d > .a,.b,.c,.d,.e,.g,.f,.i,.j,.h,.k,.l,.m,.n,.o,.p,.q,.r {
+	
+border: 1px solid black;	
+width: 58px;	
+height: 58px;
+float: left;	
+	
+}
+
+#button2 {
+	
+margin-left: 562px;
+	
+}
+
+#e {
+
+border: 1px solid black;	
+width: 180px;	
+height: 420px;
+margin-left: 500px;	
+margin-top: 180px;
+	
+}
+
+#e > .a,.b,.c,.d,.e,.g,.f,.i,.j,.h,.k,.l,.m,.n,.o,.p,.q,.r,.s,.t,.u {
+	
+border: 1px solid black;	
+width: 58px;	
+height: 58px;
+float: left;	
+	
+}
+
+#button3 {
+	
+margin-left: 562px;
+	
+}
+
